@@ -8,10 +8,10 @@ const Nav = () => {
                 <Link to="/" className="hover:bg-cyan-600 p-5 ">
                     Home
                 </Link>
-                <Link to="asdasd" className="hover:bg-cyan-600 p-5">
+                <Link to="/shweyin" className="hover:bg-cyan-600 p-5">
                     Shweyin
                 </Link>
-                <Link to="asdasd" className="hover:bg-cyan-600 p-5">
+                <Link to="/noa" className="hover:bg-cyan-600 p-5">
                     Noa
                 </Link>
             </nav>
